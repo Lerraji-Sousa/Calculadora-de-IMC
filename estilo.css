@@ -1,0 +1,67 @@
+
+*{
+    margin: 0;
+    padding: 0;  
+    }
+    
+    
+    
+    
+    
+    .fundo {
+        background-image: linear-gradient(45deg, black, rgb(75, 9, 119));
+        height: 100vh;
+        color: white;
+        font-family: arial;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    
+    
+    .quadrado {
+        
+        background-color: rgb(29, 43, 126);
+        width: 300px;  
+        padding: 20px;
+        border-radius: 10px;
+        
+    }
+    
+    .titulo {
+        margin-bottom: 20px;
+    
+    }
+    
+    .input-group {
+        margin-bottom: 10px;
+        text-align: left;
+    
+    }
+    
+    .input-group label {
+        display: block;
+        margin-bottom: 5px;
+        font-weight: bold;
+        
+    }
+    
+    .input-group input{
+        width: calc(100% - 10px);
+        padding: 5px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+    }
+    
+    .botao {
+        border: 1px solid rgb(189, 189, 189);
+        border-radius: 5px;
+        padding: 5px;
+        box-sizing: border-box;
+    }
+    
+    
+    
