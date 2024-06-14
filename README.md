@@ -1,5 +1,5 @@
 <h1 align="center">
-    <p>Calculadora de IMC 👨‍⚕️🍎</p>
+    <p>Calculadora de IMC 🍎</p>
 </h1>
 
 ## 📘 Sobre o Projeto
