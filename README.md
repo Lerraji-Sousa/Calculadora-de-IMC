@@ -1,12 +1,12 @@
 <h1 align="center">
-    <p>Calculadora de IMC ⚖️</p>
+    <p>Calculadora de IMC 🍎</p>
 </h1>
 
 ## 📘 Sobre o Projeto
 
 Este é um projeto simples de uma Calculadora de IMC (Índice de Massa Corporal), desenvolvida com HTML, CSS e JavaScript. A aplicação permite ao usuário inserir altura e peso para obter um diagnóstico baseado no valor do IMC.
 
-Link para a Calculadora de IMC: [Calculadora de IMC](https://lerraji-sousa.github.io/nome-do-repo/) <!-- Altere aqui com o link correto -->
+Link para a Calculadora de IMC: [Calculadora de IMC](https://lerraji-sousa.github.io/Calculadora-de-IMC/) 
 
 <br>
 
@@ -29,15 +29,3 @@ Link para a Calculadora de IMC: [Calculadora de IMC](https://lerraji-sousa.githu
   - Obesidade
   - Obesidade grave
 
-<br>
-
-## 🎨 Layout
-
-- Interface responsiva com tema escuro.
-- Design centralizado e visual agradável.
-
-<br>
-
-## 👨‍💻 Autor
-
-Desenvolvido por [Lerraji Sousa](https://github.com/lerraji-sousa)
